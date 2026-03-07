@@ -1,0 +1,2 @@
+D:/Tools/PyCharm/dataset/DA_dataset24/RGait_dataset.rar filter=lfs diff=lfs merge=lfs -text
+data/RGait_dataset.rar filter=lfs diff=lfs merge=lfs -text
